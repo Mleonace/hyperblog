@@ -42,6 +42,9 @@ body
 }
 #post
 {
+<<<<<<< HEAD
 	background: white;
+	padding: 1em;
+=======
 	padding: 1em;
 }
